@@ -8,7 +8,7 @@
 ---
 
 I'm a back-end software engineer based in **Bogotá, Colombia** 🇨🇴  
-Currently wworking as a SSr Software Engineer @ **Mercado Libre** — building and maintaining high-traffic backend systems serving users across 17 countries in Latin America.
+Currently working as a SSr Software Engineer @ **Mercado Libre** — building and maintaining high-traffic backend systems serving users across 17 countries in Latin America.
 
 ---
 
@@ -24,7 +24,7 @@ Currently wworking as a SSr Software Engineer @ **Mercado Libre** — building a
 
 ---
 
-### A bit more
+### A bit more about me
 
 - 🎓 Computer Systems Engineering graduate from Universidad Nacional de Colombia ❤️
 - 💻 Currently working on sharpening algorithms and data structures in Python
