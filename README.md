@@ -1,49 +1,36 @@
-<h2 align="left">Hi there! 👋🏾</h2>
+<h2>Santiago Mondragón Gómez &nbsp;·&nbsp; mondracode</h2>
 
-![Profile views number](https://komarev.com/ghpvc/?username=mondracode&color=orange)
-<div>
-  <img align="right" height="48" src="https://raw.githubusercontent.com/mondracode/mondracode/main/images/logo.png"  />
-  <div align="left">
-    <img width="12" />
-    <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-    
-  </div>
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=mondracode&color=orange&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mondracode/?locale=en_US)
+[![Website](https://img.shields.io/badge/Website-A180EE?style=flat-square&logo=dev.to&logoColor=white)](https://mondracode.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santiago@mondracode.com)
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mondracode/?locale=en_US" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://mondracode.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=my website&logo=dev.to&label=&color=A180EE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  </a>
-  <a href="mailto:santiago@mondracode.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=mail me&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+I'm a back-end software engineer based in **Bogotá, Colombia** 🇨🇴  
+Currently wworking as a SSr Software Engineer @ **Mercado Libre** — building and maintaining high-traffic backend systems serving users across 17 countries in Latin America.
 
-###
+---
 
-<h4>My name is Santiago. 🦆 I'm a back-end software engineer and tech enthusiast based in Bogotá, Colombia.</h4> <h4>Currently working as an SSr Software Engineer @ Mercado Libre 🤝</h4>
+### Stack
 
-<h3>Some facts about me:</h3>
+<img src="https://cdn.simpleicons.org/go/00ADD8" height="28" alt="Go" title="Go" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="28" alt="Kotlin" title="Kotlin" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" title="React" />
 
-- 🛠 I have experience building and maintaining high-traffic backend systems in Golang and Kotlin, delivering data-driven, scalable solutions for a userbase spread across 17 countries in Latin America.
-- 🎓 I hold a degree in Computer Systems Engineering from Universidad Nacional de Colombia ❤
-- 🌱 Currently exploring Rust, adding lower-level programming to my toolkit 🦀
-- 🌠 My experience spans multiple languages and frameworks, including Go, Kotlin -using Spring Boot- and JavaScript in professional environments; and Java, C, Dart -through Flutter- and Python for academic and personal endeavors.
-- 💻 My main interests are in web technologies, API development, and scalable business traceability.
-- 💬 Big music fan and concertgoer! Currently into [Turnstile](https://www.youtube.com/watch?v=D6yaJur9JUE) ☁️ (whom I've seen twice) and [De La Soul](https://www.youtube.com/watch?v=2WbSBLplJS0) 🌼.
-- 📷 Fun fact: I'm a novice analog photography nerd!
+**Mainly working in** Go, with Kotlin (Spring Boot) when the project calls for it.  
+**Interests:** API design · scalable systems · backend architecture
 
-<h4>You can check out my academic and personal projects in the pinned repos below.</h4> <h4>Enjoy (and credit me if you use something)! ⚡</h4>
+---
+
+### A bit more
+
+- 🎓 Computer Systems Engineering graduate from Universidad Nacional de Colombia ❤️
+- 💻 Currently working on sharpening algorithms and data structures in Python
+- 📷 Analog photography enthusiast. Taking my time!
+- 🎵 Big music fan and frequent concertgoer — currently spinning [Turnstile](https://www.youtube.com/watch?v=D6yaJur9JUE) and [De La Soul](https://www.youtube.com/watch?v=2WbSBLplJS0)
+
+---
+
+<sub>Pinned repos below — enjoy, and credit me if you use something ⚡</sub>
